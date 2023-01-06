@@ -9,7 +9,7 @@ token = ""
 
 #Global variables
 url = "https://api.github.com/graphql"
-orgs = ['hcapatientkeeper', 'commure']
+orgs = ['X', 'Y']
 headers = {'Authorization': 'bearer ' + str(token)} 
 
 
