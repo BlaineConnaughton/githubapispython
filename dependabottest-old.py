@@ -46,7 +46,7 @@ def query_builder(organization , pagination_cursor=None):
 
 def main():
 
-	orgs = ['hcapatientkeeper', 'commure']
+	orgs = ['X', 'Y']
 	headers = {'Authorization': 'bearer ' + str(token)} 
 	error_count = 0
 
